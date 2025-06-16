@@ -1,4 +1,4 @@
-#Amish wagle
+#Utility Based Agent
 # Ccreated by amish wagle 021-308
 # Q. Implementation of vacuum cleaning agent as a utility-based agent
 # A. Calculates a utility score for every possible adjacent move.
