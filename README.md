@@ -48,4 +48,12 @@ This repository contains Python implementations of three types of **vacuum clean
 - Simple visualization and logging of agent behavior.
 
 ---
+## 🔍 What is KNN?
+
+K-Nearest Neighbors (KNN) is a supervised machine learning algorithm used for classification and regression. It is one of the simplest and most intuitive algorithms in machine learning.
+📌 Key Concepts
+
+   - Instance-based Learning: KNN doesn’t learn an internal model; it stores all the training data and makes predictions based on similarity (distance).
+
+    -Lazy Learning: No training phase. It only computes things when a prediction is required.
 
