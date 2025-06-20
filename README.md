@@ -1,4 +1,4 @@
-# vaccum-cleaning-agent Labwork
+# vaccum-cleaning-agent and KNN-Model Labwork
 
 Student Name= Amish Wagle <br>
 CRN = 021-308
@@ -48,3 +48,4 @@ This repository contains Python implementations of three types of **vacuum clean
 - Simple visualization and logging of agent behavior.
 
 ---
+
