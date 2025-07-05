@@ -1,4 +1,4 @@
-# vaccum-cleaning-agent and KNN-Model Labwork
+# AI ALL Labwork
 
 Student Name= Amish Wagle <br>
 CRN = 021-308
